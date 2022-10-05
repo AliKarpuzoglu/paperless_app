@@ -26,15 +26,15 @@ Anything missing? Please open an issue.
 ## Get The App
 
 ### Android
-[![Get it on F-Droid](assets/get-it-on-fdroid.png)](https://f-droid.org/packages/eu.bauerj.paperless_app/)
+[![Get it on F-Droid](assets/get-it-on-fdroid.png| height=80)](https://f-droid.org/packages/eu.bauerj.paperless_app/)
 
-[![Get it on Google Play"](assets/google-play-badge.png)](https://play.google.com/store/apps/details?id=eu.bauerj.paperless_app)
+[![Get it on Google Play"](assets/google-play-badge.png| height=80)](https://play.google.com/store/apps/details?id=eu.bauerj.paperless_app)
 
 
 
 ### iOS
 
-[![Get it on iOS](assets/app-store-badge.svg)](https://apps.apple.com/us/app/no-paper-app/id1614233414)
+[![Get it on iOS](assets/app-store-badge.svg| height=80)](https://apps.apple.com/us/app/no-paper-app/id1614233414)
 
 
 ## How to help?
